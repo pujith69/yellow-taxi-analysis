@@ -1,0 +1,10 @@
+# Large data files
+*.parquet
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+chatgpt.ipynb
