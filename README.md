@@ -159,7 +159,7 @@ Place the downloaded files in the root project directory before running the note
 This project is based on the paper:
 
 > **"Optimizing for the Driver: A Predictive Positioning System to Enhance Welfare in Gig Networks"**
-> P. R. Pulipati, S. Parashar, and M. Zaman — Dayananda Sagar University, Bengaluru, India, 2025.
+> P. R. Pulipati, S. Parashar, and M. Zaman — Dayananda Sagar University, Bengaluru, India, 2026.
 
 ---
 
